@@ -1,3 +1,5 @@
+https://github.com/rubences/Examen_Redes_1.git
+
 # Examen_Redes_1
 
 # Cálculo de Tasa de Transmisión Máxima (Fórmula de Shannon)
